@@ -12,6 +12,6 @@
 hs_err_pid*
 .classpath
 .project
-*.[target]
-*.[bin]
-*.[classes]
+*.target/
+*.bin/
+*.classes/
