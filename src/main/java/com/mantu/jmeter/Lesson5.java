@@ -17,7 +17,6 @@ public class Lesson5 extends AbstractJavaSamplerClient{
     
     public static void main(String [] args){
         
-        
     }
 
     @Override
